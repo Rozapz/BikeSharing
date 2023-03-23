@@ -1,19 +1,9 @@
 # Bike Sharing App Data Analysis
 
 ## Overview
-The purpose of the analysis is well defined. (5 pt)
+The purpose of this analysis is to get a detailed analysis on the customers who use the bike sharing app. It is important for us to undrestand who are the daily users of the bikes, their destination, weekday distribution of usage and more. This analysis is done in Tableau and you can find the [link to dashboard here](https://public.tableau.com/app/profile/roza7019/viz/challenge1_16795182396430/NYCBikeShareing?publish=yes "link to dashboard").
 
-[link to dashboard](https://public.tableau.com/app/profile/roza7019/viz/challenge1_16795182396430/NYCBikeShareing?publish=yes "link to dashboard")
-
-[link to data](https://citibikenyc.com/system-data "link to data") data are from August, 2019.
-
-The framework for this project was to analyze bikeshare data from CitiBike in New York City for presentation to investors looking to begin a bikeshare program in Des Moines, Iowa. While Des Moines is a long way away from the hustle and bustle of NYC, this analysis might help answer a few key questions:
-
-Who uses bikeshare programs?
-What area of a city sees the most bikeshare usage?
-What time of day are bikes used the most and the least?
-How much are the bikes used and by whom?
-
+The data used in this analys is from August 2019 and the data can be found here [link to data](https://citibikenyc.com/system-data "link to data")
 
 
 ## Results
