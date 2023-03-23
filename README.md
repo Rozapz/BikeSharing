@@ -31,10 +31,11 @@ As it can be seen, out assumption on the local users who use the bike to beat th
 
 ![Trip by gender](Images/Trip_by_gender.PNG)
 
-this graph clearly shows that more advetisment is needed for female costumers to start using the bike for daily commute. Lastly lets study
+this graph clearly shows that more advetisment is needed for female costumers to start using the bike for daily commute. Lastly, lets study the subscribers use of the bikes compare to other customers.
 
 ![User Trip by Gender by Weekday](Images/User_Trip_by_Gender_by_Weekday.PNG)
 
+As it can be seen, subscribers are the local users and they use the bike in work days to beat the traffic. The rest of the customers are the tourists that are visitng New york city.
 
 
 ## Summary
