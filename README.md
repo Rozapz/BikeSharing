@@ -7,19 +7,27 @@ The data used in this analys is from August 2019 and the data can be found here 
 
 
 ## Results
+To start the study, first lets start to see who are the main users for this program.
 
 ![Gender Break Down](Images/Gender_Break_Down.PNG)
 
+It can be seen that more advertisment can be done for female users to encourage them to use this program more. Next lets take a look at the end location of the bikes.
+
 ![Top Ending Location](Images/Top_Ending_Location.PNG)
 
+This graph shows that Manhatan area is the destination for most of the bikes. This area has high traffic and this is showing in the usage of the bikes. Now lets take a look at the time that bikes are used.
 
 ![Checkout Times for user](Images/Checkout_Times_for_users.PNG)
 
+This graph shows that most users are using the bikes less than an hour. Lets get more details and investigates who are using the bikes more, male or female users.
+
 ![Checkout times by Gender](Images/Checkout_times_by_Gender.PNG)
 
-
+The above graph shows that male users are female users are both using the bikes in a simillar way.Next lets take a look at the rush hour time and see if we can find a relation between bike use and time of the day during weekdays.
 
 ![Trip by Weekday per Hour](Images/Trip_by_Weekday_per_Hour.PNG)
+
+As it can be seen, out assumption on the local users who use the bike to beat the traffic is correct.
 
 ![Trip by gender](Images/Trip_by_gender.PNG)
 
