@@ -23,13 +23,15 @@ This graph shows that most users are using the bikes less than an hour. Lets get
 
 ![Checkout times by Gender](Images/Checkout_times_by_Gender.PNG)
 
-The above graph shows that male users are female users are both using the bikes in a simillar way.Next lets take a look at the rush hour time and see if we can find a relation between bike use and time of the day during weekdays.
+The above graph shows that male users are female users are both using the bikes in a simillar way.Next, lets take a look at the rush hour time and see if we can find a relation between bike use and time of the day during weekdays.
 
 ![Trip by Weekday per Hour](Images/Trip_by_Weekday_per_Hour.PNG)
 
-As it can be seen, out assumption on the local users who use the bike to beat the traffic is correct.
+As it can be seen, out assumption on the local users who use the bike to beat the traffic is correct. Now, lets do a smilar study and this time seprate male and female users.
 
 ![Trip by gender](Images/Trip_by_gender.PNG)
+
+this graph clearly shows that more advetisment is needed for female costumers to start using the bike for daily commute. Lastly lets study
 
 ![User Trip by Gender by Weekday](Images/User_Trip_by_Gender_by_Weekday.PNG)
 
