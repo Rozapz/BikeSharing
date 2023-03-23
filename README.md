@@ -13,15 +13,15 @@ The purpose of the analysis is well defined. (5 pt)
 
 ![Checkout times by Gender](Images/Checkout_times_by_Gender.PNG)
 
-![Gender Break Down](Images/Gender Break Down.PNG)
+![Gender Break Down](Images/Gender_Break_Down.PNG)
 
-![Top Ending Location](Images/Top Ending Location.PNG)
+![Top Ending Location](Images/Top_Ending_Location.PNG)
 
 ![Trip by Weekday per Hour](Images/Trip_by_Weekday_per_Hour.PNG)
 
 ![Trip by gender](Images/Trip_by_gender.PNG)
 
-
+![User Trip by Gender by Weekday](Images/User_Trip_by_Gender_by_Weekday.PNG)
 There are at least seven visualizations for the NYC Citibike analysis (7 pt)
 There is a description of the results for each visualization (7 pt)
 
