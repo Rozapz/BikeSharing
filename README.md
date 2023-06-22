@@ -5,7 +5,6 @@ The purpose of this analysis is to get a detailed analysis of the customers who 
 
 The data used in this analysis is from August 2019 and the data can be found here [link to data](https://citibikenyc.com/system-data "link to data")
 
-
 ## Results
 To start the study first let us start to see who are the main users of this program.
 
